@@ -1,0 +1,2 @@
+etl/data/*.csv
+*.DS_Store
